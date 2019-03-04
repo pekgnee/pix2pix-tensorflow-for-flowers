@@ -18,3 +18,5 @@ Hence edge detection was run again using the workflow mentioned under [creating-
 but it requires set-up of environment for caffe, and this was copied from the colab notebook  
 Edge detection with HED (holistically-nested edge detection)  
 https://colab.research.google.com/drive/1SI57hLgHCX6mbZ2jNveNvq1Pqx07Jag7
+
+The training shld take couple hours to run - but so far the automatic disconnect from Colab has been preventing the training to run to completion... (to be continued)
