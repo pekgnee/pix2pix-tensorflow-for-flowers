@@ -1,10 +1,10 @@
 # pix2pix-tensorflow-for-flowers
 Main Project for Advanced Computer Vision
 
-The code for this project is taken (inspired) mostly from
-https://affinelayer.com/pixsrv/
-https://github.com/affinelayer/pix2pix-tensorflow
-https://colab.research.google.com/github/anujdutt9/DeepLearning/blob/master/Colaboratory_Notebooks_for_pix2pix.ipynb
+The code for this project is taken (inspired) mostly from:  
+* https://affinelayer.com/pixsrv/
+* https://github.com/affinelayer/pix2pix-tensorflow
+* https://colab.research.google.com/github/anujdutt9/DeepLearning/blob/master/Colaboratory_Notebooks_for_pix2pix.ipynb
 
 The initial intention was to run using data from 102 Category Flower Dataset
 http://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html  
