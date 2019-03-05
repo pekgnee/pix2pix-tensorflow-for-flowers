@@ -23,7 +23,8 @@ https://colab.research.google.com/drive/1SI57hLgHCX6mbZ2jNveNvq1Pqx07Jag7
 | flowers_training_output | output of training |
 | flowers_test_output | test results |
 
-See also [Summary of results](https://pekgnee.github.io/pix2pix-tensorflow-for-flowers/flowers_test_output/)
+### Results
+See [flowers_test_output/index.html](https://pekgnee.github.io/pix2pix-tensorflow-for-flowers/flowers_test_output/)
 
 ### Post implementation
 [Series of colab for pix2pix](https://colab.research.google.com/github/anujdutt9/DeepLearning/blob/master/Colaboratory_Notebooks_for_pix2pix.ipynb) was found.  
